@@ -8,11 +8,7 @@
 void print_python_bytes(PyObject *p)
 {
 }
-/**
- * print_python_float - print Python float
- * @p: python float
- * Return: nothing
- **/
+
 void print_python_float(PyObject *p)
 {
 }

@@ -148,7 +148,7 @@ class Rectangle(Base):
             "x": self.x,
             "y": self.y
         }
-[O
+
     def __str__(self):
         """Return the print() and str() representation of the Rectangle."""
         return "[Rectangle] ({}) {}/{} - {}/{}".format(self.id,
